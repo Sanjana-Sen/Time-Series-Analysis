@@ -38,10 +38,10 @@ Historical stock data downloaded from:
 
 [Alpha Vantage ]: https://www.alphavantage.co
 
-5. Visualizations
-6. 📷 Dashboard Preview  
+5. 📷 Dashboard Preview  
+![Time Series Showcase](https://github.com/Sanjana-Sen/Time-Series-Analysis/blob/main/Stocky.png)
 
-![Time Series Showcase](https://github.com/Sanjana-Sen/Time-Series-Analysis/blob/main/Stocky.png) 
+6. Visualizations
 *   Stock Trend Analysis
 *   Moving Average Calculations
 *   Seasonality Decomposition
